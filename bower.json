@@ -1,0 +1,25 @@
+{
+  "name": "andrew-martis-portfolio",
+  "version": "0.0.0",
+  "authors": [
+    "reggi <thomas@reggi.com>"
+  ],
+  "description": "Portfolio of Andrew Martis",
+  "main": "index.html",
+  "keywords": [
+    "portfolio"
+  ],
+  "license": "MIT",
+  "homepage": "http://andrewmartis.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
