@@ -1,0 +1,92 @@
+body{
+  font-family: 'Fira Sans', sans-serif;
+  font-size:12px
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active{
+
+}
+
+ul{
+  list-style-type: none;
+  margin:0;
+  padding:0
+}
+
+li{
+  margin:0;
+  padding:0
+}
+
+.list-heading{
+  margin-top: 30px;
+  margin-bottom:10px;
+}
+
+.list-heading:first-child{
+  margin-top:0;
+}
+
+.container{
+  max-width:970px
+}
+
+.container-hr{
+  margin: 15px auto;
+}
+
+.container-logo{
+  margin-top:75px
+}
+
+.logo{
+  width:85px;
+  display: block;
+  margin: auto;
+}
+
+.text-uppercase{
+  text-transform:uppercase;
+}
+
+.text-center{
+  text-align:center
+}
+
+.container-nav a{
+  margin-left:10px;
+  text-transform:uppercase;
+}
+
+.smart-image img,
+.smart-images img,
+img.smart-image{
+  width:100%
+}
+
+.container-images .row{
+  margin-bottom:30px
+}
+
+.container-images .row:last-child{
+  margin-bottom:0px
+}
+
+.container-social{
+  margin-bottom:100px
+}
+
+.container-social img{
+  width:30px;
+  display:inline-block;
+  margin:0 2px;
+}
+
+
+.container-content img{
+  display:block;
+  margin-bottom:30px
+}
